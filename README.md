@@ -1,6 +1,9 @@
 # COU07506-labs
 
-Laboratory work for **COU 07506 Digital Signal Processing, 2026/27**.
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rodgers031/COU07506-labs/blob/main/COU07506_Week01_240242438141.ipynb)
+
+Laboratory work for **COU 07506 Digital Signal Processing, 2026/27** — Rodgers Fidelis Ndanu,
+240242438141, group 13.
 
 One Jupyter notebook per lab week, following
 `COU07506_DSP_Laboratory_Manual_2026-27.pdf`. Notebooks are named
@@ -10,7 +13,7 @@ One Jupyter notebook per lab week, following
 
 ```
 COU07506-labs/
-    COU07506_Week01_<RegNo>.ipynb    Week 1 — Lab 0
+    COU07506_Week01_240242438141.ipynb    Week 1 — Lab 0
     data/my_voice.wav                voice recording used in Task 1.3
     README.md
 ```
