@@ -1,0 +1,8 @@
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+check.ipynb
+
+# Python
+__pycache__/
+*.pyc
